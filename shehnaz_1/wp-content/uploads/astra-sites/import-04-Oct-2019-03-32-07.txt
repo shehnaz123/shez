@@ -1,0 +1,103 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.39 (Win64) OpenSSL/1.0.2s PHP/7.1.30
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 7.1.30
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 2048M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 300
+Max Upload Size 	: 1 GB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 15:34:09 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Inserted WP Form 5
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"2.0.0","theme-auto-version":"2.0.1","site-sidebar-layout":"no-sidebar","site-content-layout":"boxed-container","body-font-family":"'Work Sans', sans-serif","body-font-weight":"400","headings-font-family":"'Changa One', display","headings-font-weight":"400","different-retina-logo":true,"ast-header-retina-logo":"https:\/\/websitedemos.net\/pet-sitting-02\/wp-content\/uploads\/sites\/471\/2019\/07\/logo1@2x-free-img.png","different-mobile-logo":true,"mobile-header-logo":"https:\/\/websitedemos.net\/pet-sitting-02\/wp-content\/uploads\/sites\/471\/2019\/07\/favicon-free-img.png","display-site-title":false,"ast-header-responsive-logo-width":{"desktop":"140","tablet":"55","mobile":"55"},"header-main-sep":0,"site-layout-outside-bg-obj":{"background-color":"#ffffff","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"theme-color":"#ff9c00","link-color":"#ff9c00","link-h-color":"#ff9c00","text-color":"#261a36","transparent-menu-color-responsive":{"desktop":"#ffffff","tablet":"","mobile":""},"transparent-menu-h-color-responsive":{"desktop":"#ff9c00","tablet":"","mobile":""},"transparent-header-on-devices":"desktop","font-size-body":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h1":{"desktop":"72","tablet":"52","mobile":"32","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"48","tablet":"38","mobile":"28","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"footer-bg-obj":{"background-color":"#f5f5f6","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-sml-divider-color":"#e5e5e5","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | <a href=\"#\">Credits<\/a>","footer-sml-section-2":"custom","footer-sml-section-2-credit":"Powered by [site_title]","footer-color":"#292524","footer-sml-layout":"footer-sml-layout-2","footer-link-color":"rgba(41,37,36,0.8)","footer-link-h-color":"#ff9c00","blog-single-width":"custom","blog-single-max-width":1000,"single-post-content-layout":"plain-container","blog-single-post-structure":["single-title-meta","single-image"],"blog-width":"default","blog-max-width":1000,"different-transparent-logo":true,"transparent-header-logo":"https:\/\/websitedemos.net\/pet-sitting-02\/wp-content\/uploads\/sites\/471\/2019\/07\/logo-free-img.png","different-transparent-retina-logo":true,"transparent-header-retina-logo":"https:\/\/websitedemos.net\/pet-sitting-02\/wp-content\/uploads\/sites\/471\/2019\/07\/logo@2x-free-img.png","button-radius":30,"button-v-padding":7,"button-h-padding":30,"header-main-rt-section":"text-html","header-main-rt-section-html":"<a href=\"#download\"><button><i class=\"fa fa-download\"><\/i> \u00a0 Download App<\/button><\/a>","button-color":"#ffffff","button-h-color":"#ffffff","button-bg-h-color":"#6c00ff","mobile-header-toggle-btn-style":"fill","_astra_pb_compatibility_completed":true},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/471/wxr.xml
+Inserted - Term 2 - {"term_id":2,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":2,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 3 - {"term_id":3,"name":"section","slug":"section","term_group":0,"term_taxonomy_id":3,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 4 - {"term_id":4,"name":"Main Menu","slug":"main-menu","term_group":0,"term_taxonomy_id":4,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 12 - attachment - favicon-free-img
+Inserted - Post 37 - attachment - home-hero-free-img
+Inserted - Post 54 - attachment - pets-about-free-img
+Inserted - Post 55 - attachment - pet-with-girl-free-img
+Inserted - Post 59 - attachment - grooming-free-img
+Inserted - Post 60 - attachment - minding-free-img
+Inserted - Post 61 - attachment - sitting-free-img
+Inserted - Post 62 - attachment - training-free-img
+Inserted - Post 72 - attachment - footer-dog-free-img
+Inserted - Post 75 - attachment - quotes-free-img
+Inserted - Post 76 - attachment - client1-free-img
+Inserted - Post 77 - attachment - client2-free-img
+Inserted - Post 78 - attachment - client3-free-img
+Inserted - Post 88 - attachment - logo@2x-free-img
+Inserted - Post 89 - attachment - logo-free-img
+Inserted - Post 124 - attachment - cute-dog-free-img
+Inserted - Post 133 - attachment - founders-free-img
+Inserted - Post 136 - attachment - founders2-free-img
+Inserted - Post 152 - attachment - teammate1-free-img
+Inserted - Post 153 - attachment - teammate2-free-img
+Inserted - Post 91 - elementor-hf - Site Footer
+Inserted - Post 116 - elementor_library - Footer Old
+Inserted - Post 154 - attachment - teammate3-free-img
+Inserted - Post 158 - attachment - ball-free-img
+Inserted - Post 159 - attachment - collar-free-img
+Inserted - Post 160 - attachment - food-free-img
+Inserted - Post 161 - attachment - food-pot-free-img
+Inserted - Post 162 - attachment - heart-free-img
+Inserted - Post 165 - attachment - video-bg-free-img
+Inserted - Post 210 - attachment - feature-img1-free-img
+Inserted - Post 211 - attachment - feature-img2-free-img
+Inserted - Post 212 - attachment - feature-img3-free-img
+Inserted - Post 213 - attachment - feature-img4-free-img
+Inserted - Post 214 - attachment - feature-img5-free-img
+Inserted - Post 267 - attachment - founders3-free-img
+Inserted - Post 269 - attachment - logo1@2x-free-img
+Inserted - Post 270 - attachment - logo1-free-img
+Inserted - Post 281 - attachment - app-design-free-img
+Inserted - Post 309 - elementor_library - old pricing
+Inserted - Post 338 - attachment - demo-screenshot-free-img
+Inserted - Post 15 - page - Home
+Inserted - Post 16 - page - About Us
+Inserted - Post 18 - page - Services
+Inserted - Post 19 - page - Blog
+Inserted - Post 20 - page - Contact Us
+Inserted - Post 26 - nav_menu_item - 
+Inserted - Post 27 - nav_menu_item - Who We Are
+Inserted - Post 28 - nav_menu_item - 
+Inserted - Post 29 - nav_menu_item - 
+Inserted - Post 30 - nav_menu_item - Get In Touch
+Inserted - Post 178 - post - Suspendisse ac mollis sem, eget molestie ligula?
+Inserted - Post 179 - post - Fringilla metus lucas de pritoro.
+Inserted - Post 180 - post - Rem ridi culus pharetra eligendi labore nulla!
+Inserted - Post 217 - post - Quisque laoreet sed imperdiet mets suscipit!
+Inserted - Post 218 - post - Aliquam vehicula lacinia magna eget porttitor.
+Inserted - Post 219 - post - Vestibulum consectetur quam nulla  sed imperdiet.
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/pet-sitting-02\/wp-content\/uploads\/sites\/471\/2019\/07\/logo1-free-img.png","nav_menu_locations":{"primary":"main-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":null,"elementor_container_width":"1200","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#292524","2":"#54595f","3":"#7a7a7a","4":"#ff9c00","5":"#6c00ff","6":"#ff9c00","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"","elementor_stretched_section_container":"","elementor_load_fa4_shim":"yes","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'xyz' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 30
+Post ID: 26
+Post ID: 27
+Post ID: 28
+Post ID: 29
+Batch Process Complete!
