@@ -1,0 +1,7 @@
+.main-banner .et_pb_container{height:80vh !important;}
+.main-banner .et_pb_container .et_pb_button_wrapper{position: relative;}
+.main-banner .et_pb_container .et_pb_button{position: absolute;top: 150px;text-transform: uppercase;padding: 15px 30px;box-sizing: border-box;right: -170px;}
+#top-menu-nav #top-menu li{padding-right:45px;margin-top: 10px;}
+#et-top-navigation #et_top_search{width: 160px;margin-top:0;border:1px solid #aaa;padding:5px 10px}
+#et-top-navigation #et_top_search:before {content: "Search";}
+#et-top-navigation #et_top_search #et_search_icon:before{right: 7px;left: auto;top: 8px;font-size: 14px;font-weight: 700;}
