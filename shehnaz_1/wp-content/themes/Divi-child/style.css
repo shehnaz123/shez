@@ -31,3 +31,4 @@ right: -170px;
 #et-top-navigation #et_top_search{width: 160px;margin-top:0;border:1px solid #aaa;padding:5px 10px}
 #et-top-navigation #et_top_search:before {content: "Search";}
 #et-top-navigation #et_top_search #et_search_icon:before{right: 7px;left: auto;top: 8px;font-size: 14px;font-weight: 700;}
+.et_shop_image .woocommerce-loop-product__title h2{display: none !important;}
