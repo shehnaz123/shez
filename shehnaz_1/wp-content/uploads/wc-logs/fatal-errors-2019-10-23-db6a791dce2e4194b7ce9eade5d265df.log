@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 2019-10-23T13:36:40+00:00 CRITICAL syntax error, unexpected '/', expecting end of file in C:\xampp\htdocs\shez\shehnaz_1\wp-content\themes\Divi-child\functions.php on line 16
 
 2019-10-23T13:36:52+00:00 CRITICAL syntax error, unexpected '/', expecting end of file in C:\xampp\htdocs\shez\shehnaz_1\wp-content\themes\Divi-child\functions.php on line 16
+=======
+2019-10-23T16:07:49+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\shez\shehnaz_1\wp-content\themes\Divi-child\functions.php on line 16
+
+2019-10-23T16:11:49+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\shez\shehnaz_1\wp-content\themes\Divi-child\functions.php on line 21
+
+2019-10-23T16:11:59+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\shez\shehnaz_1\wp-content\themes\Divi-child\functions.php on line 21
+
+2019-10-23T16:13:49+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\shez\shehnaz_1\wp-content\themes\Divi-child\functions.php on line 21
+
+2019-10-23T16:14:00+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\shez\shehnaz_1\wp-content\themes\Divi-child\functions.php on line 21
+>>>>>>> 6cf4f3dfef8853ba67a785908ffb9619c14e4dcc
 
