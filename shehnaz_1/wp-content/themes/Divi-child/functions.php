@@ -53,4 +53,4 @@ add_action( 'wp_enqueue_scripts', 'my_theme_enqueue_styles' );
         wp_reset_postdata();
         return $string;
     }
-?>
+

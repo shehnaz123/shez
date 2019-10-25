@@ -31,18 +31,38 @@ right: -170px;
 #et-top-navigation #et_top_search{width: 160px;margin-top:0;border:1px solid #aaa;padding:5px 10px}
 #et-top-navigation #et_top_search:before {content: "Search";}
 #et-top-navigation #et_top_search #et_search_icon:before{right: 7px;left: auto;top: 8px;font-size: 14px;font-weight: 700;}
-#et-secondary-menu ul li{
-    display: inline-block;
-    padding-right:40px;
-    
-    color:white;
+#et-info{    
+    width: 400px;
+    text-align: right;
+}
+#et-info a{
+    padding:8px;
     
 }
-
+#et-info a:hover{
+    background-color: #00c8c8;
+    color:#ffffff;
+}
+#et-secondary-menu{
+    width:500px;
+}
+#et-secondary-menu ul{
+    display: inline-block;
+}
+#et-secondary-menu ul li{
+    display: inline-block;
+    padding:8px;
+    color: #999999;
+    font-family: "Montserrat";
+    font-size: 13px;
+    line-height: 10px;
+}
+#et-secondary-menu ul li:hover{
+    background-color: #00c8c8;
+    color:#ffffff !important;
+}
 #et-secondary-menu ul li a:hover{
-    display:block;
-    background-color: greenyellow;
-    
+    color:#ffffff;
 }
 .et_pb_text_inner .row .inner .image-wraper{
     display: inline-block !important;
@@ -86,6 +106,7 @@ font-weight: 400;
 }
 .button-more:hover{
     background-color: #00c8c8;
+    border: none;
 }
 .inner{
     display: inline-block;
@@ -104,3 +125,8 @@ width: 1756px !important;
 .et_pb_section{
     padding-bottom: 0px !important;
 } 
+
+#main-footer .et_pb_section .et_pb_section_4 .et_section_regular .et_pb_row .et_pb_row_2{
+    width: 1700px !important;
+    margin:30px !important;
+}
