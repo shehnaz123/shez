@@ -137,3 +137,12 @@ Text Domain: Divi-child
      .products .type-product .woocommerce-loop-product__title{
          display:none;
      }
+     ul.et_pb_tabs_controls{
+         border-style: none;
+     }
+     .et_pb_module .tab-border .et_overlay{
+         position: static !important; 
+     }
+     .tab-border{
+
+     }
